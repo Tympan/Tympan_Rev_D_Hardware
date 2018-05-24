@@ -1,0 +1,67 @@
+<<<<<<< HEAD
+### Module positions - created on Thursday, April 19, 2018 'PMt' 06:54:01 PM ###
+### Printed by Pcbnew version kicad 4.0.0-stable
+## Unit = inches, Angle = deg.
+## Side : bottom
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C14      1uF              C_0402              0.3278     1.1171     270.0    bottom
+C20      1uF              C_0402              1.2992     1.0059     180.0    bottom
+C21      1uF              C_0402              1.0965     0.4331      90.0    bottom
+C22      1uF              C_0402              1.2992     1.1919     180.0    bottom
+C23      2.2uF            C_0402              0.2736     1.8169     180.0    bottom
+C24      2.2uF            C_0402              0.2756     1.7185     180.0    bottom
+C25      2.2uF            C_0402              0.2756     1.6201     180.0    bottom
+C26      2.2uF            C_0402              0.2795     1.5138     180.0    bottom
+C34      1uF              C_0402              1.1988     0.5059     180.0    bottom
+C36      1uF              C_0402              0.9075     0.5020       0.0    bottom
+C38      4.7uF            C_0402              0.9272     0.4390      90.0    bottom
+F1       FUSE             C_1206              0.1457     0.7717       0.0    bottom
+IC1      MK66FX1M0VMD18   BGA-144-1mm         0.6978     1.1147     180.0    bottom
+IC2      MKL02Z32VFG4     QFN-16-1EP_3x3mm    0.3455     0.8907     270.0    bottom
+R19      1K               R_0402              0.8937     1.7638       0.0    bottom
+R20      1K               R_0402              0.8937     1.7283       0.0    bottom
+R23      100K             R_0402              0.3986     1.1919      90.0    bottom
+R24      0.22             C_0603              0.9567     0.3701     180.0    bottom
+R34      240              R_0402              0.9134     0.1024     270.0    bottom
+R35      240              R_0402              0.9528     0.1024     270.0    bottom
+R36      240              R_0402              0.8740     0.1024     270.0    bottom
+U1       LP5907MFX-3.3    SOT-23-5            1.1831     0.4114      90.0    bottom
+U4       LP5907MFX-1.8    SOT-23-5            1.2776     1.0984      90.0    bottom
+=======
+### Module positions - created on Friday, April 20, 2018 'PMt' 02:04:18 PM ###
+### Printed by Pcbnew version kicad 4.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                           PosX       PosY       Rot  Side
+BT1       LiPo            Hirose_DF13A_2P_1.25H          16.8000     6.6000  270.0000  bottom
+C14       1uF             C_0402                          8.3250    28.3750  270.0000  bottom
+C20       1uF             C_0402                         33.0000    25.5500  180.0000  bottom
+C21       1uF             C_0402                         27.8500    11.0000   90.0000  bottom
+C22       1uF             C_0402                         33.0000    30.2750  180.0000  bottom
+C23       2.2uF           C_0402                          6.9500    46.1500  180.0000  bottom
+C24       2.2uF           C_0402                          7.0000    43.6500  180.0000  bottom
+C25       2.2uF           C_0402                          7.0000    41.1500  180.0000  bottom
+C26       2.2uF           C_0402                          7.1000    38.4500  180.0000  bottom
+C34       1uF             C_0402                         30.4500    12.8500  180.0000  bottom
+C36       1uF             C_0402                         23.0500    12.7500    0.0000  bottom
+C38       4.7uF           C_0402                         23.5500    11.1500   90.0000  bottom
+D4        Shottkey        ACDBA340-HF                    12.3500    13.8000  180.0000  bottom
+D5        Shottkey        ACDBA340-HF                    23.1000     6.2000  180.0000  bottom
+F1        FUSE            C_1206                          3.7000    19.6000    0.0000  bottom
+IC1       MK66FX1M0VMD18  BGA-144-1mm                    17.7240    28.3134  180.0000  bottom
+IC2       MKL02Z32VFG4    QFN-16-1EP_3x3mm_Pitch0.5mm     8.7750    22.6250  270.0000  bottom
+Q1        Q_PNP_BEC       SC-70-3                        21.1500    11.4500    0.0000  bottom
+R19       1K              R_0402                         22.7000    44.8000    0.0000  bottom
+R20       1K              R_0402                         22.7000    43.9000    0.0000  bottom
+R22       2               1020_(Reversed)                19.5500    13.7500  180.0000  bottom
+R23       100K            R_0402                         10.1250    30.2750   90.0000  bottom
+R24       0.22            C_0603                         24.3000     9.4000  180.0000  bottom
+R34       240             R_0402                         23.2000     2.6000  270.0000  bottom
+R35       240             R_0402                         24.2000     2.6000  270.0000  bottom
+R36       240             R_0402                         22.2000     2.6000  270.0000  bottom
+U1        LP5907MFX-3.3   SOT-23-5                       30.0500    10.4500   90.0000  bottom
+U4        LP5907MFX-1.8   SOT-23-5                       32.4500    27.9000   90.0000  bottom
+Y1        32.768kHz       LFXTAL009678                   17.7250    20.4500  180.0000  bottom
+Y2        16MHz           FA_238_16.0000MB_K3            13.2000    19.9750  180.0000  bottom
+>>>>>>> 9a44661875765a0a65f29047f08598c568257892
+## End
