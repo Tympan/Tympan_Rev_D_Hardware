@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC127
+D Bluetooth Certified 4.0 Audio module (11.8mm x 18mm x 3.2mm), 51 pin, surface mounted
+F https://www.bluecreation.com/fdownload.php?file=bc127-datasht-009-1467380980.pdf
+$ENDCMP
+#
+$CMP MK66FX1M0VMD18
+D ARM Microcontrollers - MCU BL Microcontrollers
+F http://cache.freescale.com/files/shared/doc/package_info/98ASA00222D.pdf
+$ENDCMP
+#
+$CMP MKL02Z32VFG4
+D Freescale MKL02Z32VFG4, 32bit ARM Cortex M0 Microcontroller, 48MHz, 32 kB Flash, 16-Pin QFN
+F http://cache.nxp.com/files/32bit/doc/data_sheet/KL02P32M48SF0.pdf
+$ENDCMP
+#
+#End Doc Library

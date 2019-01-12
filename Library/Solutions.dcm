@@ -1,0 +1,279 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4066
+D Single Ananlog Switch
+K CMOS SWITCH
+F http://www.mouser.com/ds/2/302/74LVC1G66-839686.pdf
+$ENDCMP
+#
+$CMP 7400
+D Dual nand2
+K CMOS nand2
+$ENDCMP
+#
+$CMP 74HC00
+D Quad nand2
+K HCMOS nand2
+$ENDCMP
+#
+$CMP 74HC04
+D Hex Inverseur
+K HCMOS not inv
+$ENDCMP
+#
+$CMP 74HCT00
+D Quad nand2
+K HCTMOS nand2
+$ENDCMP
+#
+$CMP 74HCT04
+D Hex Inverseur
+K HCTMOS not inv
+$ENDCMP
+#
+$CMP 74LS14
+D Hex inverseur schmitt trigger
+K TTL not inv
+$ENDCMP
+#
+$CMP 74LS37
+D Quad Buffer nand2
+K TTL nand2 buffer
+$ENDCMP
+#
+$CMP 74LVC1G66
+D Quad Analog Switches
+K CMOS SWITCH
+$ENDCMP
+#
+$CMP 74LVC2G00
+D Quad nand2
+K TTL nand2
+$ENDCMP
+#
+$CMP 74xx14
+D Hex Inverseur
+K HCTMOS not inv
+$ENDCMP
+#
+$CMP AD5621
+D MCP3425A0T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
+K Sigma-Delta ADC Converter 16bit I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
+$ENDCMP
+#
+$CMP AD8614
+D AD8614, Op Amp in 5-pin package
+K op amp amplifier operational
+$ENDCMP
+#
+$CMP ADA4075
+D Very low noise audio op amp
+F http://www.analog.com/static/imported-files/data_sheets/ADA4075-2.pdf
+$ENDCMP
+#
+$CMP ADS1291_2
+D AFE for ECG
+K AFE ECG ADS
+$ENDCMP
+#
+$CMP AP2112K-3.3
+D Ultra Low Power 100mA Low Drop Out Regulator 1.2V, SOT-23-5
+K Ultra Low Power Fixed LDO 100mA
+F http://www.ti.com/lit/ds/symlink/tps769.pdf
+$ENDCMP
+#
+$CMP ARDUINO_MICRO
+D Arduino Micro shield
+K arduino, micro
+$ENDCMP
+#
+$CMP ARDUINO_MICRO_SHIELD
+D Arduino Micro shield
+K arduino, micro
+$ENDCMP
+#
+$CMP BSS84_PMOS_GSD
+D Transistor P-MOSFET with substrate diode (general)
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
+$CMP CJS1200
+D Single Pole Double Throw (SPDT) switch
+F http://www.nidec-copal-electronics.com/e/catalog/switch/cjs.pdf
+$ENDCMP
+#
+$CMP DC_JACK
+D DC PLUG
+K plug
+$ENDCMP
+#
+$CMP DUAL_LED
+D DUAL RED BLUE LED
+K LED
+F http://www.mouser.com/ds/2/216/APHB1608QBDSURKC-23574.pdf
+$ENDCMP
+#
+$CMP Dialight_R_G_LED
+D DOUBLE type Bicolore
+K LED
+$ENDCMP
+#
+$CMP FX
+D Fluxl Pad
+K F
+$ENDCMP
+#
+$CMP HCPL0534
+D Low Input Current high Gain Split Darlington Optocouplers
+K darlington optocoupler
+F http://www.mouser.com/ds/2/149/HCPL2731-188691.pdf
+$ENDCMP
+#
+$CMP HCPL2730
+D Low Input Current high Gain Split Darlington Optocouplers
+K darlington optocoupler
+F http://www.mouser.com/ds/2/149/HCPL2731-188691.pdf
+$ENDCMP
+#
+$CMP HV507
+D 64-Channel High Voltage Push-Pull, PQFP-80
+K HVOUT
+$ENDCMP
+#
+$CMP JACK_3_5_5PINS
+D audio jack TRS 6 pins
+K audio jack connector TRS
+$ENDCMP
+#
+$CMP JACK_TRS_6PINS
+D audio jack TRS 6 pins
+K audio jack connector TRS
+$ENDCMP
+#
+$CMP LM7332
+D High voltage dual rail to rail op-amp 30V
+K high voltage op amp rail dual
+F http://www.ti.com/lit/gpn/lm7332
+$ENDCMP
+#
+$CMP LP2985
+D MICROPOWER 150mA Regulator
+K REGUL POWER  SOT-23-5
+F regulator/LP2985.pdf
+$ENDCMP
+#
+$CMP LTD-5623AG
+D 2 x 7 Segments common K.
+K 7 SEGMENTS
+F /Users/biomurph/Documents/KiCad/Docs/LTD-5623AG.pdf
+$ENDCMP
+#
+$CMP Led_RGB_CA
+D Common Anode RGB LED
+K RGB LED
+$ENDCMP
+#
+$CMP MAX1771ESA
+D Cold Junction K-type Termocouple Interface, SPI, SO8
+K Cold Junction Termocouple Interface SPI
+F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+$ENDCMP
+#
+$CMP MAX30100
+D Integrated Sp02 & PPG
+K MAX30100
+$ENDCMP
+#
+$CMP MAX31855EASA
+D Step-Up DC-DC Controller, SO8
+K Step-Up DC-DC Controller
+F http://datasheets.maximintegrated.com/en/ds/MAX1771.pdf
+$ENDCMP
+#
+$CMP MCP3421A0T-E_CH
+D AD56x1 nanoDAC, SPI, 8,10, 12 bit, LFCSP and SC70
+K DAC
+F http://www.mouser.com/ds/2/609/AD5601_5611_5621-259248.pdf
+$ENDCMP
+#
+$CMP MCP3425A1T-E_CH
+D MCP3425A1T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
+K Sigma-Delta ADC Converter 16bit I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
+$ENDCMP
+#
+$CMP MCP3425A2T-E_CH
+D MCP3425A2T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
+K Sigma-Delta ADC Converter 16bit I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
+$ENDCMP
+#
+$CMP MCP3425A3T-E_CH
+D MCP3425A3T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
+K Sigma-Delta ADC Converter 16bit I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
+$ENDCMP
+#
+$CMP MCP6002
+D Dual general purpose rail-to-rail op amp
+K dual op amp rail
+F http://www.mouser.com/ds/2/405/tlv2333-844704.pdf
+$ENDCMP
+#
+$CMP MCP6V31U
+D Op Amp in 5-pin package
+K op amp amplifier operational
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP73831
+D LiPo Battery Charger
+$ENDCMP
+#
+$CMP MK66FX1M0VMD18
+D ARM Microcontrollers - MCU BL Microcontrollers
+F http://cache.freescale.com/files/shared/doc/package_info/98ASA00222D.pdf
+$ENDCMP
+#
+$CMP OLED_DISPLAY
+D DISPLAY EA7123-12C
+$ENDCMP
+#
+$CMP PCA9508
+D I2C Level Shifter
+F http://www.mouser.com/ds/2/302/PCA9508-841623.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G32
+D Single OR Gate
+K TTL Or2
+$ENDCMP
+#
+$CMP SPDT
+D Single Pole Double Throw (SPDT) switch
+$ENDCMP
+#
+$CMP TACT_SWITCH
+D Button
+K Switch Tact
+F http://www.mouser.com/ds/2/60/PTS810_4mar13-248115.pdf
+$ENDCMP
+#
+$CMP TLV2333
+D Dual Op amp (low power)
+K ampliop
+F analog-dev/op275.pdf
+$ENDCMP
+#
+$CMP Xtal
+D Two pin crystal
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+$CMP micro_USB
+D USB Type B connector
+K connector USB
+$ENDCMP
+#
+#End Doc Library

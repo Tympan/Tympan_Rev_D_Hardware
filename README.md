@@ -1,4 +1,5 @@
 # Tympan_Rev_D_Hardware
 Repository for Tympan Rev D electronics and case designs
 
-## These files are prototypes! We are going to update prior to going into production on the units.
+## These files are the latest prototypes under test.
+## We are expecting a release in March of 2019

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Tympan_D)(type Legacy)(uri ${KIPRJMOD}/Library/Tympan_D.lib)(options "")(descr ""))
+)
