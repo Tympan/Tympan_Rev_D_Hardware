@@ -2946,7 +2946,7 @@ Wire Wire Line
 Wire Wire Line
 	6700 13050 6700 13150
 NoConn ~ 7950 13100
-Text Label 15800 7750 0    60   ~ 0
+Text Label 12400 7750 2    60   ~ 0
 BT_PIO0
 $Comp
 L Tympan:APHB1608SGNC D1

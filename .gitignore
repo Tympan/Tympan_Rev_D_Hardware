@@ -1,2 +1,9 @@
 *.csv
 *.zip
+*.net
+*.kicad_pcb-bak
+_autosave-Tympan_D.kicad_pcb
+Tympan_D-cache.lib
+*.bak
+
+Tympan_D.bak

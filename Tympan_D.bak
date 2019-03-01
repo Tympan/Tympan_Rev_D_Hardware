@@ -1266,7 +1266,7 @@ F 3 "" H 10800 8750 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L OpenBCI:Xtal Y2
+L Solutions:Xtal Y2
 U 1 1 5A91048B
 P 16650 8900
 F 0 "Y2" V 16750 9050 50  0000 C CNN
