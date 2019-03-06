@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Tympan_D)(type Legacy)(uri ${KIPRJMOD}/Library/Tympan_D.lib)(options "")(descr ""))
+  (lib (name Tympan_D-rescue)(type Legacy)(uri ${KIPRJMOD}/Tympan_D-rescue.lib)(options "")(descr ""))
 )

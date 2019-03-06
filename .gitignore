@@ -1,9 +1,12 @@
 *.csv
 *.zip
 *.net
+*.bak
+*.txt
 *.kicad_pcb-bak
 _autosave-Tympan_D.kicad_pcb
 Tympan_D-cache.lib
 *.bak
-
+Tympan_D-rescue.lib
+Tympan_D-rescue.dcm
 Tympan_D.bak
