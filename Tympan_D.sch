@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:Tympan_D-cache
 EELAYER 26 0
 EELAYER END
 $Descr C 22000 17000
@@ -15,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Tympan_D-rescue:TLV320AIC3206IRSBT-Tympan U2
+L Tympan:TLV320AIC3206IRSBT U2
 U 1 1 592C3F31
 P 3800 7100
 F 0 "U2" H 4350 7950 60  0000 C CNN
@@ -37,7 +36,7 @@ F 3 "" H 8350 2150 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Tympan_D-rescue:CL-SB-22A-Tympan SW1
+L Tympan:CL-SB-22A SW1
 U 1 1 592EEBC4
 P 7600 2150
 F 0 "SW1" H 7400 1950 60  0000 C CNN
@@ -48,7 +47,7 @@ F 3 "" H 7600 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Tympan_D-rescue:LP5907MFX-1.8-Tympan U4
+L Tympan:LP5907MFX-1.8 U4
 U 1 1 592EECD6
 P 6100 3500
 F 0 "U4" H 5950 3950 60  0000 C CNN
@@ -59,7 +58,7 @@ F 3 "" H 6100 3500 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Tympan_D-rescue:SJ-3524-SMT-TR-PI-Tympan J2
+L Tympan:SJ-3524-SMT-TR-PI J2
 U 1 1 592EF065
 P 7550 6600
 F 0 "J2" H 7150 7050 60  0000 C CNN
@@ -70,7 +69,7 @@ F 3 "" H 7550 6600 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Tympan_D-rescue:SJ-3523-SMT-TR-Tympan J1
+L Tympan:SJ-3523-SMT-TR J1
 U 1 1 592EF288
 P 6850 7500
 F 0 "J1" H 6750 7800 60  0000 C CNN
@@ -922,7 +921,7 @@ $EndComp
 Text Notes 6600 8150 0    60   ~ 0
 Connect GND_SENS to via\nat GND pin of J1
 $Comp
-L Tympan_D-rescue:USB_OTG-Tympan P1
+L Tympan:USB_OTG P1
 U 1 1 5A8F2A58
 P 1450 2150
 F 0 "P1" H 1775 2025 50  0000 C CNN
@@ -933,7 +932,7 @@ F 3 "" V 1400 2050 50  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L Tympan_D-rescue:MKL02Z32VFG4-Tympan IC2
+L Tympan:MKL02Z32VFG4 IC2
 U 1 1 5A8F2E46
 P 18950 12300
 F 0 "IC2" H 19500 13450 50  0000 L CNN
@@ -950,7 +949,7 @@ F 9 "0.65" H 19700 12700 50  0001 L CNN "Height"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Tympan_D-rescue:BC127-Tympan IC3
+L Tympan:BC127 IC3
 U 1 1 5A8F3042
 P 12900 12850
 F 0 "IC3" H 13400 14350 50  0000 L CNN
@@ -1340,7 +1339,7 @@ FA-238 16.0000MB-K3
 Text Notes 10500 4100 0    60   ~ 12
 3352T-1-103L
 $Comp
-L Tympan_D-rescue:8_PIN_microSD-Tympan CONN1
+L Tympan:8_PIN_microSD CONN1
 U 1 1 5AB01AFF
 P 19650 7900
 F 0 "CONN1" H 19500 8300 60  0000 C CNN
@@ -1476,7 +1475,7 @@ F 3 "" V 4600 1950 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Tympan_D-rescue:LP5907MFX-1.8-Tympan U1
+L Tympan:LP5907MFX-1.8 U1
 U 1 1 5AB4589B
 P 5700 2200
 F 0 "U1" H 5550 2650 60  0000 C CNN
@@ -2890,7 +2889,7 @@ Wire Wire Line
 Connection ~ 16750 7050
 Connection ~ 16850 6850
 $Comp
-L Tympan_D-rescue:SPM0687LR5H-1-Tympan MIC1
+L Tympan:SPM0687LR5H-1 MIC1
 U 1 1 5B465E6C
 P 7400 11700
 F 0 "MIC1" H 7500 12000 60  0000 C CNN
@@ -2901,7 +2900,7 @@ F 3 "" H 7400 11700 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Tympan_D-rescue:SPM0687LR5H-1-Tympan MIC2
+L Tympan:SPM0687LR5H-1 MIC2
 U 1 1 5B466007
 P 7400 13050
 F 0 "MIC2" H 7500 13350 60  0000 C CNN
@@ -2950,7 +2949,7 @@ NoConn ~ 7950 13100
 Text Label 12400 7750 2    60   ~ 0
 BT_PIO0
 $Comp
-L Tympan_D-rescue:APHB1608SGNC-Tympan D1
+L Tympan:APHB1608SGNC D1
 U 1 1 5B521623
 P 2000 3900
 F 0 "D1" H 1850 3650 60  0000 C CNN
