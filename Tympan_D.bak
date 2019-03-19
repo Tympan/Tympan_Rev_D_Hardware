@@ -3275,8 +3275,6 @@ Text Label 12400 4050 2    60   ~ 0
 DIN_1
 Text Label 15800 6350 0    60   ~ 0
 POT
-Text Notes 8350 6600 0    60   ~ 0
-SJ-43516-SMT-TR\nSJ-43516-SMT-TR-PI
 Text Label 15800 6150 0    60   ~ 0
 SCL2
 Text Label 15800 4950 0    60   ~ 0
