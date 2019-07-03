@@ -3429,4 +3429,6 @@ Wire Notes Line
 	6000 13600 1250 13600
 Wire Notes Line
 	1250 13600 1250 10600
+Text Notes 4350 1800 0    60   ~ 0
+alt FM5817-W
 $EndSCHEMATC
