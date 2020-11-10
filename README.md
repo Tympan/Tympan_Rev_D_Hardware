@@ -1,8 +1,6 @@
 # Tympan Rev D Hardware
 Repository for Tympan Rev D electronics and case designs
 
-## These files are the latest prototypes under test.
-
 ## Features
 
 * Based on Teensy 3.6
