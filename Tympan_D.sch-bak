@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:Tympan_D-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr C 22000 17000
 encoding utf-8
@@ -2670,9 +2670,9 @@ F 3 "" H 4650 11800 50  0000 C CNN
 	1    4650 11800
 	1    0    0    -1  
 $EndComp
-Text Label 4450 11600 2    60   ~ 0
-PDM_DAT
 Text Label 4450 11700 2    60   ~ 0
+PDM_DAT
+Text Label 4450 11600 2    60   ~ 0
 PDM_CLK
 Text Label 4450 12000 2    60   ~ 0
 SCK_2
@@ -3417,9 +3417,9 @@ Wire Wire Line
 	2700 7000 1700 7000
 Wire Wire Line
 	2700 7300 1700 7300
-Text Label 1700 7000 0    60   ~ 0
-PDM_DAT
 Text Label 1700 7300 0    60   ~ 0
+PDM_DAT
+Text Label 1700 7000 0    60   ~ 0
 PDM_CLK
 Wire Notes Line
 	1250 10600 6000 10600
@@ -3431,4 +3431,6 @@ Wire Notes Line
 	1250 13600 1250 10600
 Text Notes 4350 1800 0    60   ~ 0
 alt FM5817-W
+Text Notes 3050 950  0    98   ~ 20
+Battery Jack Silkscreen ‘+  -‘ Is Backwards on PCB!
 $EndSCHEMATC

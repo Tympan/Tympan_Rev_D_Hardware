@@ -3433,4 +3433,6 @@ Text Notes 4350 1800 0    60   ~ 0
 alt FM5817-W
 Text Notes 3050 950  0    98   ~ 20
 Battery Jack Silkscreen ‘+  -‘ Is Backwards on PCB!
+Text Notes 1400 13450 0    70   ~ 14
+NOTE: PDM_CLK and PDM_DAT were swapped in the production boards.\nThis pinout is correct, however the PCB silk on current Rev D boards is incorrect.
 $EndSCHEMATC
